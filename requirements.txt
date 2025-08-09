@@ -1,3 +1,2 @@
-json
-matplotlib
-streamlit
+matplotlib==3.10.0
+streamlit==1.48.0
